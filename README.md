@@ -1,6 +1,6 @@
 - # 👋 Hi, I’m @gsusgil 🚀
 
-[![hero-gsusgil-solo.jpg](https://i.postimg.cc/V6hyprj6/hero-gsusgil-solo.jpg)](https://postimg.cc/sQ50Z2Hd)
+[![hero-gsusgil-git-Hub.jpg](https://i.postimg.cc/DzyF61NQ/hero-gsusgil-git-Hub.jpg)](https://postimg.cc/mPq021Bh)
   
 ```js
 import Frontend Developer from 'gsusgil';
